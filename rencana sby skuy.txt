@@ -6,3 +6,6 @@ menggunakan Bus;
 -harapan jaya
 -kym
 -27 trans
+
+menggunakan motor;
+-pejuang pantura
